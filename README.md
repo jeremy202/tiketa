@@ -76,7 +76,7 @@ npm run dev
 npm run build
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tiketa/
