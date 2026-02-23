@@ -76,7 +76,7 @@ npm run dev
 npm run build
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tiketa/
@@ -314,4 +314,4 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ---
 
-Built with ❤️ using Nuxt 3
+Built using Nuxt 3
