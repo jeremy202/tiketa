@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen bg-grid">
     <!-- Hero Section -->
-    <section class="relative pt-26 md:pt-[250px] pb-16 px-4 sm:px-6 lg:px-8">
+    <section class="relative pt-[250px] pb-16 px-4 sm:px-6 lg:px-8">
       <div class="max-w-7xl mx-auto">
         <div class="text-center mb-12">
           <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6">
